@@ -95,6 +95,11 @@ file containing your features.
 
 Your completed programs are due on midnight March 30th 2020. 
 
+## How to run this program
+```
+python project1.py traindata trueclass testdata
+```
+
 ## Proof of Submission
 
 ![](Proof_of_Submission_Project1_1.png)
