@@ -64,7 +64,7 @@ numbers.
 
 For example your code should run like shown below:
 
-python project1.py traindata trueclass testdata
+python3 project1.py traindata trueclass testdata
 
 and output would be features in the first line. For example if you picked
 features 1, 10, and 15 then your first line is
